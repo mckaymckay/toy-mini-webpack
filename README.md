@@ -1,10 +1,8 @@
 # toy-mini-webpack
 
-# mini-Webpack
-
 ## 1. 介绍
 
-mini-Webpack是一个简单的webpack实现，它可以帮助你理解webpack的工作原理。
+toy-mini-Webpack是一个简单的webpack实现，它可以帮助你理解webpack的工作原理。
 
 ## 2. 使用
 
